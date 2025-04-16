@@ -34,6 +34,3 @@ docker run --rm -it lcp-env
 └── README.md        # Project overview and usage instructions
 ```
 
-📄 License
-
-[MIT]()
