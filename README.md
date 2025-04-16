@@ -3,6 +3,10 @@
 This repository provides a minimal Docker environment to run the **Light Client Protocol (LCP)**.  
 It's useful for local development, testing, or prototyping purposes.
 
+## :memo: Requirement
+
+* CPU: `amd64`
+
 ## 🐳 Getting Started
 
 Follow the steps below to build and run the LCP environment using Docker.
